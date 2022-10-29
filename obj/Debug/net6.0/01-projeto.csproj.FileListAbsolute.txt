@@ -1,0 +1,15 @@
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/01-projeto
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/01-projeto.deps.json
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/01-projeto.runtimeconfig.json
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/01-projeto.dll
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/ref/01-projeto.dll
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/bin/Debug/net6.0/01-projeto.pdb
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.csproj.AssemblyReference.cache
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.AssemblyInfoInputs.cache
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.AssemblyInfo.cs
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.csproj.CoreCompileInputs.cache
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.dll
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/ref/01-projeto.dll
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.pdb
+/home/rbpolim/Documents/projects/senac-ads/01-projeto/obj/Debug/net6.0/01-projeto.genruntimeconfig.cache
